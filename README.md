@@ -47,3 +47,5 @@ cannot weaken its own gate by renaming or dropping a job. The `ci-status`
 job is an aggregator: it runs after everything else, always, and fails when
 any job it waited on failed. Repositories add jobs to `needs`; they do not
 change what the ruleset asks for.
+
+#### A heading level that markdownlint rejects, to prove the gate fails
