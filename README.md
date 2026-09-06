@@ -14,7 +14,8 @@ Dependabot and pull request conventions. Every later change arrives by pull
 request, under the ruleset, with nothing bypassed.
 
 "Create a new repository" in the organization `.github` repository has the
-exact commands.
+exact commands, including the path for importing a repository that already
+has history.
 
 ## What the template provides
 
